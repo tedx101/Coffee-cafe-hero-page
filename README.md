@@ -21,5 +21,5 @@ design.md         Full design spec (colors, type, layout, copy) — source of tr
 
 ## Status
 - [x] Static layout matching Figma (Nav, Hero, About, Menu, Explore, Footer)
-- [ ] Replace image placeholders with real café photography
+- [x] Replace image placeholders with real café photography
 - [ ] Hook up "Visit Us" / "View Full Menu" to real destinations
